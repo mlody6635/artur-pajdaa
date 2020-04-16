@@ -1,0 +1,44 @@
+HELP.md
+<<<<<<< HEAD
+target/
+!.mvn/wrapper/maven-wrapper.jar
+=======
+.gradle
+build/
+!gradle/wrapper/gradle-wrapper.jar
+>>>>>>> 6625007... first commit
+!**/src/main/**
+!**/src/test/**
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+<<<<<<< HEAD
+=======
+out/
+>>>>>>> 6625007... first commit
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+<<<<<<< HEAD
+build/
+=======
+>>>>>>> 6625007... first commit
+
+### VS Code ###
+.vscode/
